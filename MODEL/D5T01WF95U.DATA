@@ -1,0 +1,138 @@
+-- Generated [
+-- Format      : ECLIPSE keywords (ASCII)
+-- Exported by : Petrel 2016.1 (64-bit) Schlumberger
+-- User name   : ntvuong
+-- Date        : Wednesday, June 17 2020 15:20:43
+-- Project     : 40402.pet
+-- Generated ]
+
+RUNSPEC
+
+SATOPTS                                -- Generated : Petrel
+  HYSTER /
+
+ROCKCOMP                               -- Generated : Petrel
+  1* 1 /
+
+VFPPDIMS                               -- Generated : Petrel
+  8 6 8 8 1 1 /
+
+VFPIDIMS                               -- Generated : Petrel
+  10 6 1 /
+
+ENDSCALE                               -- Generated : Petrel
+  /
+
+MESSAGES
+ 10*10000000 /
+
+TITLE                                  -- Generated : Petrel
+'with CPR solver'
+
+WELLDIMS                               -- Generated : Petrel
+  3 40 2 3 /
+
+START                                  -- Generated : Petrel
+  1 JAN 2020 /
+
+DISGAS                                 -- Generated : Petrel
+
+WATER                                  -- Generated : Petrel
+
+OIL                                    -- Generated : Petrel
+
+GAS                                    -- Generated : Petrel
+
+PETOPTS                                -- Generated : Petrel
+INITNNC /
+
+MONITOR                                -- Generated : Petrel
+
+CPR                                    -- Generated : Petrel
+  /
+
+MULTOUT                                -- Generated : Petrel
+
+METRIC                                 -- Generated : Petrel
+
+DIMENS                                 -- Generated : Petrel
+  25 100 43 /
+
+TABDIMS                                -- Generated : Petrel
+  2 1* 21 /
+
+UNIFIN
+UNIFOUT
+
+GRID
+
+INCLUDE                                -- Generated : Petrel
+'D5T01WF95U_GRID.INC' /
+
+NOECHO                                 -- Generated : Petrel
+
+GDFILE                                 -- Generated : Petrel
+D5T01WF95U_GRID.EGRID /
+
+INCLUDE                                -- Generated : Petrel
+'D5T01WF95U_PROP_PERMX.GRDECL' /
+
+INCLUDE                                -- Generated : Petrel
+'D5T01WF95U_PROP_PERMY.GRDECL' /
+
+INCLUDE                                -- Generated : Petrel
+'D5T01WF95U_PROP_PERMZ.GRDECL' /
+
+INCLUDE                                -- Generated : Petrel
+'D5T01WF95U_PROP_PORO.GRDECL' /
+
+INCLUDE                                -- Generated : Petrel
+'D5T01WF95U_PROP_NTG.GRDECL' /
+
+INCLUDE                                -- Generated : Petrel
+'D5T01WF95U_PROP_MULTZ.GRDECL' /
+
+ECHO                                   -- Generated : Petrel
+
+EDIT
+
+PROPS
+
+INCLUDE                                -- Generated : Petrel
+'D5T01WF95U_PROPS.INC' /
+
+REGIONS
+
+NOECHO                                 -- Generated : Petrel
+
+INCLUDE                                -- Generated : Petrel
+'D5T01WF95U_PROP_SATNUM.GRDECL' /
+
+INCLUDE                                -- Generated : Petrel
+'D5T01WF95U_PROP_PVTNUM.GRDECL' /
+
+INCLUDE                                -- Generated : Petrel
+'D5T01WF95U_PROP_ROCKNUM.GRDECL' /
+
+INCLUDE                                -- Generated : Petrel
+'D5T01WF95U_PROP_EQLNUM.GRDECL' /
+
+INCLUDE                                -- Generated : Petrel
+'D5T01WF95U_PROP_IMBNUM.GRDECL' /
+
+ECHO                                   -- Generated : Petrel
+
+SOLUTION
+
+INCLUDE                                -- Generated : Petrel
+'D5T01WF95U_SOL.INC' /
+
+SUMMARY
+
+INCLUDE                                -- Generated : Petrel
+'D5T01WF95U_SUM.INC' /
+
+SCHEDULE
+
+INCLUDE                                -- Generated : Petrel
+'D5T01WF95U_SCH.INC' /
