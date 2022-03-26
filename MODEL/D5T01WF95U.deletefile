@@ -1,0 +1,11 @@
+<eclipse>
+<bug source="eclrun" date="" time="0">
+An unsupported error has occurred. Please contact Schlumberger for assistance reporting the error message: [Errno 13] Permission denied: u'C:\\Users\\ntvuong\\AppData\\Roaming\\Schlumberger\\ECLRUN\\eclrun.history'
+</bug>
+<bug source="eclrun" date="" time="0">
+[Errno 13] Permission denied: u'C:\\Users\\ntvuong\\AppData\\Roaming\\Schlumberger\\ECLRUN\\eclrun.history'
+</bug>
+<bug source="eclrun" date="" time="0">
+Please check for files with extension .eclrun_dbg both locally and on the server. This will assist in solving your problem
+</bug>
+</eclipse>

@@ -1,0 +1,69 @@
+2022-01-25 03:02:04	Debug   	segrprodt035	
+2022-01-25 03:02:04	Debug   	segrprodt035	Found C:\ecl\macros\eclrun.EXE
+2022-01-25 03:02:04	Debug   	segrprodt035	Platform: system=Windows hostname=segrprodt035 release=10 os_version=10.0.18362 machine=AMD64 processor=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+2022-01-25 03:02:04	Debug   	segrprodt035	Found C:\ecl\macros
+2022-01-25 03:02:04	Debug   	segrprodt035	Platform: system=Windows hostname=segrprodt035 release=10 os_version=10.0.18362 machine=AMD64 processor=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+2022-01-25 03:02:04	Debug   	segrprodt035	Found C:\ecl\macros
+2022-01-25 03:02:04	Debug   	segrprodt035	Platform: system=Windows hostname=segrprodt035 release=10 os_version=10.0.18362 machine=AMD64 processor=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+2022-01-25 03:02:04	Debug   	segrprodt035	Found C:\ecl\macros
+2022-01-25 03:02:04	Debug   	segrprodt035	Platform: system=Windows hostname=segrprodt035 release=10 os_version=10.0.18362 machine=AMD64 processor=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+2022-01-25 03:02:04	Debug   	segrprodt035	Found C:\ecl\macros
+2022-01-25 03:02:04	Debug   	segrprodt035	Platform: system=Windows hostname=segrprodt035 release=10 os_version=10.0.18362 machine=AMD64 processor=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+2022-01-25 03:02:04	Debug   	segrprodt035	Python executable is C:\ecl\macros\eclrun.exe
+2022-01-25 03:02:04	Debug   	segrprodt035	All User's Configuration file: 'C:\ProgramData\Schlumberger\Simulation Launcher\SimLaunchConfig.xml'.
+2022-01-25 03:02:04	Debug   	segrprodt035	Found C:\ecl\macros
+2022-01-25 03:02:04	Debug   	segrprodt035	Platform: system=Windows hostname=segrprodt035 release=10 os_version=10.0.18362 machine=AMD64 processor=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+2022-01-25 03:02:04	Debug   	segrprodt035	Current User's configuration file: 'C:\Users\ntvuong\AppData\Roaming\Schlumberger\Simulation Launcher\SimLaunchConfig.xml'.
+2022-01-25 03:02:04	Debug   	segrprodt035	Found C:\ecl\macros
+2022-01-25 03:02:04	Debug   	segrprodt035	Looking for network XML configuration file name in :'C:\ProgramData\Schlumberger\Simulation Launcher\SimLaunchConfig.xml'
+2022-01-25 03:02:04	Debug   	segrprodt035	Looking for network XML configuration file name in :'C:\Users\ntvuong\AppData\Roaming\Schlumberger\Simulation Launcher\SimLaunchConfig.xml'
+2022-01-25 03:02:04	Debug   	segrprodt035	Setting up default configuration.
+2022-01-25 03:02:04	Debug   	segrprodt035	State key putty_priv_key=C:\Users\ntvuong\putty.ppk
+2022-01-25 03:02:04	Debug   	segrprodt035	State key ChkLicOnWin=False
+2022-01-25 03:02:04	Debug   	segrprodt035	State key lsf_licenses=False
+2022-01-25 03:02:04	Debug   	segrprodt035	State key windows_dirs=['C:\\Users\\ntvuong']
+2022-01-25 03:02:04	Debug   	segrprodt035	State key temp_run_dir=C:\Users\ntvuong
+2022-01-25 03:02:04	Debug   	segrprodt035	State key NoLocalQueueAuth=True
+2022-01-25 03:02:04	Debug   	segrprodt035	State key IntelMpiSsh=True
+2022-01-25 03:02:04	Debug   	segrprodt035	State key EfHttpAuth=True
+2022-01-25 03:02:04	Debug   	segrprodt035	State key max_history=300
+2022-01-25 03:02:04	Debug   	segrprodt035	State key EclEnableFloGridSaveRestore=False
+2022-01-25 03:02:04	Debug   	segrprodt035	State key isAffinityEnabled=True
+2022-01-25 03:02:04	Debug   	segrprodt035	Attempt to set nonexistent state key azure_encrypt
+2022-01-25 03:02:04	Debug   	segrprodt035	State key azure_encrypt=True
+2022-01-25 03:02:04	Debug   	segrprodt035	Attempt to set nonexistent state key azure_staging
+2022-01-25 03:02:04	Debug   	segrprodt035	State key azure_staging=
+2022-01-25 03:02:04	Debug   	segrprodt035	State key single_simulation_licensing=False
+2022-01-25 03:02:04	Debug   	segrprodt035	Processing the XML configuration file: 'C:\ecl\macros\eclrun.config'
+2022-01-25 03:02:04	Debug   	segrprodt035	State key file_mode=BOTH
+2022-01-25 03:02:04	Debug   	segrprodt035	State key windows_dirs=[u'HOME']
+2022-01-25 03:02:04	Debug   	segrprodt035	State key temp_run_dir=HOME
+2022-01-25 03:02:04	Debug   	segrprodt035	State key lsf_licenses=False
+2022-01-25 03:02:04	Debug   	segrprodt035	State key efport=8080
+2022-01-25 03:02:04	Debug   	segrprodt035	State key efpath=enginframe
+2022-01-25 03:02:04	Debug   	segrprodt035	State key efssl=False
+2022-01-25 03:02:04	Debug   	segrprodt035	Processing the XML configuration file: 'C:\Users\ntvuong\AppData\Roaming\Schlumberger\Simulation Launcher\SimLaunchConfig.xml'
+2022-01-25 03:02:04	Debug   	segrprodt035	State key max_history=300
+2022-01-25 03:02:04	Debug   	segrprodt035	State key ChkLicOnWin=False
+2022-01-25 03:02:04	Debug   	segrprodt035	State key NoLocalQueueAuth=True
+2022-01-25 03:02:04	Debug   	segrprodt035	State key efpath=enginframe
+2022-01-25 03:02:04	Debug   	segrprodt035	State key efssl=False
+2022-01-25 03:02:04	Debug   	segrprodt035	State key efport=8080
+2022-01-25 03:02:04	Debug   	segrprodt035	State key lsf_licenses=False
+2022-01-25 03:02:04	Debug   	segrprodt035	State key EclEnableFloGridSaveRestore=False
+2022-01-25 03:02:04	Debug   	segrprodt035	Found C:\Users\ntvuong\Documents\Model 2022.sim\D5T01WF95U\D5T01WF95U.DATA
+2022-01-25 03:02:04	Debug   	segrprodt035	Data args[1], file, location : ['C:\\Users\\ntvuong\\Documents\\Model 2022.sim\\D5T01WF95U\\D5T01WF95U.DATA', 'D5T01WF95U.DATA', 'C:\\Users\\ntvuong\\Documents\\Model 2022.sim\\D5T01WF95U']
+2022-01-25 03:02:04	Debug   	segrprodt035	Found C:\Users\ntvuong\Documents\Model 2022.sim\D5T01WF95U\D5T01WF95U.DATA
+2022-01-25 03:02:04	Debug   	segrprodt035	Found C:\ecl\macros
+2022-01-25 03:02:04	Debug   	segrprodt035	Platform: system=Windows hostname=segrprodt035 release=10 os_version=10.0.18362 machine=AMD64 processor=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+2022-01-25 03:02:04	Debug   	segrprodt035	Current User's Application Data: 'C:\Users\ntvuong\AppData\Roaming\Schlumberger\ECLRUN'.
+2022-01-25 03:02:05	Bug     	segrprodt035	An unsupported error has occurred. Please contact Schlumberger for assistance reporting the error message: [Errno 13] Permission denied: u'C:\\Users\\ntvuong\\AppData\\Roaming\\Schlumberger\\ECLRUN\\eclrun.history'
+2022-01-25 03:02:05	Bug     	segrprodt035	[Errno 13] Permission denied: u'C:\\Users\\ntvuong\\AppData\\Roaming\\Schlumberger\\ECLRUN\\eclrun.history'
+2022-01-25 03:02:05	Bug     	segrprodt035	Please check for files with extension .eclrun_dbg both locally and on the server. This will assist in solving your problem
+2022-01-25 03:02:05	Debug   	segrprodt035	Traceback is 
+2022-01-25 03:02:05	Debug   	segrprodt035	State key simulation_status=Aborted
+2022-01-25 03:02:05	Debug   	segrprodt035	File "<string>", line 11725, in <module>
+2022-01-25 03:02:05	Debug   	segrprodt035	File "<string>", line 11713, in main
+2022-01-25 03:02:05	Debug   	segrprodt035	File "<string>", line 11122, in currentMain
+2022-01-25 03:02:05	Debug   	segrprodt035	File "<string>", line 11568, in add_history
+2022-01-25 03:02:05	Debug   	segrprodt035	File "<string>", line 9081, in add
