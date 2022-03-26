@@ -280,8 +280,9 @@
         "Type": "GeneticAlgorithm"
     },
     "Simulator": {
-        "ExecutionScript": "bash_flw-bin",
+        "ExecutionScript": "bash_ecl",
         "FluidModel": "BlackOil",
+        "DriverPath": "../MODEL/D5T01WF95U.DATA",
         "ScheduleFile": "D5T01WF95U_SCH.INC",
         "Type": "Flow"
     }
