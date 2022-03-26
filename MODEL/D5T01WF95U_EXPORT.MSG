@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no" ?>
+<eclipse>
+
+  <warning date="" time="">Generating the grid connections for well Producer Well: The connection to the cell (15,6,11) has been ignored because the connected fraction is less than the % cell length tolerance. </warning>
+
+  <warning date="" time="">Generating the grid connections for well Producer Well: The connection to the cell (15,6,22) has been ignored because the connected fraction is less than the % cell length tolerance. </warning>
+
+  <warning date="" time="">Generating the grid connections for well Producer Well: The connection to the cell (15,6,33) has been ignored because the connected fraction is less than the % cell length tolerance. </warning>
+
+  <warning date="" time="">The WELSPECS keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The WCONPROD keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The WCONINJE keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The WECON keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The GCONINJE keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+</eclipse>

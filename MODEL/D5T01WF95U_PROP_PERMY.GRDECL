@@ -1,0 +1,14 @@
+-- Generated [
+-- Format      : ECLIPSE keywords (grid properties) (ASCII)
+-- Exported by : Petrel 2016.1 (64-bit) Schlumberger
+-- User name   : ntvuong
+-- Date        : Wednesday, June 17 2020 15:18:00
+-- Project     : 40402.pet
+-- Grid        : 3D grid
+-- Unit system : ECLIPSE-Metric
+-- Generated ]
+
+PERMY                                  -- Generated : Petrel
+-- Property name in Petrel : Permeability Y
+  25000*150.0000 2500*0.1000 25000*150.0000 2500*0.1000 25000*150.0000 2500*0.1000 25000*150.0000 /
+

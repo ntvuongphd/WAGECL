@@ -1,0 +1,18 @@
+-- Generated [
+-- Format      : ECLIPSE keywords (grid properties) (ASCII)
+-- Exported by : Petrel 2016.1 (64-bit) Schlumberger
+-- User name   : ntvuong
+-- Date        : Wednesday, June 17 2020 15:18:01
+-- Project     : 40402.pet
+-- Grid        : 3D grid
+-- Unit system : ECLIPSE-Metric
+-- Generated ]
+
+NOECHO                                 -- Generated : Petrel
+
+SWL                                    -- Generated : Petrel
+-- Property name in Petrel : Irr. water saturation
+  25000*0.05 2500*0 25000*0.05 2500*0 25000*0.05 2500*0 25000*0.05 /
+
+ECHO                                   -- Generated : Petrel
+
